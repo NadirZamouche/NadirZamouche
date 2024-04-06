@@ -37,5 +37,5 @@
 ## 📊 My GitHub Stats
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirzamouche&show_icons=true&theme=algolia" width="335"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
 </p>
