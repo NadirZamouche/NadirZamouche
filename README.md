@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **nadir.zamouche29@outlook.com**
 
-- 📄 Here's my [Resume](https://drive.google.com/file/d/1T-02DuGN1ZHjXb_OKLJeMayzJCq8qHP1/view?usp=drive_link) in English and my [CV](https://drive.google.com/file/d/1Li_Zlj9oaAw3g2kdQ3iLzishxB2Djtz1/view?usp=drive_link) in french
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1T-02DuGN1ZHjXb_OKLJeMayzJCq8qHP1/view?usp=drive_link) in English and my [CV](https://drive.google.com/file/d/1pYEeBYnE4Zk_q1c6Et8qyQs9TGWORIf1/view?usp=drive_link) in french
 
 ## 🛠️ Tools & Programming languages
 <p align="center">
