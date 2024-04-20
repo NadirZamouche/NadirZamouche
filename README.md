@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
-<h3 align="center">A Data Scientist</h3>
+<h3 align="center">A Computer Science  Student @CESI  Engineering School</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*KY6XB83Jnm5XHm3e.gif" alt="nadirzamouche" />
