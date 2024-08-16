@@ -36,6 +36,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
 </p>
 
+
+
+
 ## 🏆 Achievements (Licenses & certifications)
 
   - Cisco's CCNA: Introduction to Networks Certification:
