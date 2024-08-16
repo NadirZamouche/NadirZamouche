@@ -38,9 +38,9 @@
   </p>
 
   - CESI: Software Developer (Sep 2020 - Jul 2022):
-  <p align="center">
+  
     <img width="598" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
-  </p>
+  
 
 ## 📊 My GitHub Stats
 <p align="center">
