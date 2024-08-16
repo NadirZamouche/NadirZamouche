@@ -38,10 +38,14 @@
     </p>
 
   - CESI: Software Developer (Sep 2020 - Jul 2022):
+    <p>
     <img width="598" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
+    </p>
 
   - The TOEIC program: International English Language Testing System B2 (Feb 2024):
+    <p>
     <img width="406" alt="B2 English" src="https://github.com/user-attachments/assets/1eefa0f3-48ca-4cbb-af2d-4755b84e388c">
+    </p>
     
   - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024):
     <p>
