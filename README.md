@@ -33,25 +33,16 @@
 ## 🏆 Achievements (Licenses & certifications)
 
   - Cisco's CCNA: Introduction to Networks Certification (Feb 2022):
-  <p align="center">
     <img width="1134" alt="CCNA Introduction to Networks" src="https://github.com/user-attachments/assets/d69f111a-3f92-461b-bce0-74eb012f7a94">
-  </p>
 
   - CESI: Software Developer (Sep 2020 - Jul 2022):
-  <p align="center">
     <img width="598" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
-  </p>
 
   - The TOEIC program: International English Language Testing System B2 (Feb 2024)
-  <p align="center">
     <img width="406" alt="B2 English" src="https://github.com/user-attachments/assets/1eefa0f3-48ca-4cbb-af2d-4755b84e388c">
-
-  </p>
-  
+    
   - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024)
-  <p align="center">
     <img width="449" alt="A1 Deutsch" src="https://github.com/user-attachments/assets/6889c31e-4966-4de7-807e-ddfa422a5c66">    
-  </p>
 
 ## 📊 My GitHub Stats
 <p align="center">
