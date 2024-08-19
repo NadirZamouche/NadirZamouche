@@ -44,7 +44,7 @@
 
   - The TOEIC program: International English Language Testing System B2 (Feb 2024):
     <p>
-    ![International English Language Testing System B2](https://github.com/user-attachments/assets/00ab34be-1525-41cf-b025-790af0f88a79)
+    ![International English Language Testing System B2](https://github.com/user-attachments/assets/bfa8bde4-aad7-437b-b42e-fbbfb99fe6ea)
     </p>
     
   - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024):
