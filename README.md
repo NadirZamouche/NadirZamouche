@@ -39,17 +39,17 @@
 
   - CESI: Software Developer (Sep 2020 - Jul 2022):
     <p>
-    <img width="598" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
+    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
     </p>
 
   - The TOEIC program: International English Language Testing System B2 (Feb 2024):
     <p>
-    <img width="343" alt="International English Language Testing System B2" src="https://github.com/user-attachments/assets/e260d89d-f7d6-4a0f-a50c-2a4466317bc3">
+    <img width="1134" alt="International English Language Testing System B2" src="https://github.com/user-attachments/assets/e260d89d-f7d6-4a0f-a50c-2a4466317bc3">
     </p>
     
   - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024):
     <p>
-    <img width="449" alt="A1 Deutsch" src="https://github.com/user-attachments/assets/6889c31e-4966-4de7-807e-ddfa422a5c66">    
+    <img width="1134" alt="A1 Deutsch" src="https://github.com/user-attachments/assets/6889c31e-4966-4de7-807e-ddfa422a5c66">    
     </p>
     
 ## 📊 My GitHub Stats
