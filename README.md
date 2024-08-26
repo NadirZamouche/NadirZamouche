@@ -51,6 +51,11 @@
     <p>
     <img width="1134" alt="A1 Deutsch" src="https://github.com/user-attachments/assets/6889c31e-4966-4de7-807e-ddfa422a5c66">    
     </p>
+
+  - CESI: Application Designer and Developer (Sep 2022 - Jul 2024):
+    <p>
+    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/707c4ff8-ec38-4dd9-b42c-09698e513eeb">
+    </p>
     
 ## 📊 My GitHub Stats
 <p align="center">
