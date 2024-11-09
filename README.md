@@ -56,6 +56,11 @@
     <p>
     <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/707c4ff8-ec38-4dd9-b42c-09698e513eeb">
     </p>
+
+  - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A2 (Nov 2024):
+    <p>
+    <img width="1134" alt="Screenshot 2024-11-09 204544" src="https://github.com/user-attachments/assets/5573f456-4445-42a6-ac5b-6aec9a763a60">
+    </p>
     
 ## 📊 My GitHub Stats
 <p align="center">
