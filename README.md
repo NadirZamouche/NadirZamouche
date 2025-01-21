@@ -39,10 +39,8 @@
   
   - CESI: Application Designer and Developer (Sep 2022 - Jul 2024):
     <p>
-    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/707c4ff8-ec38-4dd9-b42c-09698e513eeb">
+    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/a03e1961-e370-478e-9423-fdd0f45e841c">
     </p>
-    ![IT Developer Diploma (BAC+4)](https://github.com/user-attachments/assets/a03e1961-e370-478e-9423-fdd0f45e841c)
-
   
   - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024):
     <p>
