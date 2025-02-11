@@ -30,38 +30,6 @@
                                                                     alt="www.linkedin.com/in/nadirzamouche/" height="30" width="40" /></a>
 </p>
 
-## 🏆 Achievements (Licenses & certifications)
-
-  - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A2 (Nov 2024):
-    <p>
-    <img width="1134" alt="Screenshot 2024-11-09 204544" src="https://github.com/user-attachments/assets/5573f456-4445-42a6-ac5b-6aec9a763a60">
-    </p>
-  
-  - CESI: Application Designer and Developer (Sep 2022 - Jul 2024):
-    <p>
-    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/a03e1961-e370-478e-9423-fdd0f45e841c">
-    </p>
-  
-  - Deutsche Welle: Deutsch Lernen Zertifikat Nicos Weg A1 (Mar 2024):
-    <p>
-    <img width="1134" alt="A1 Deutsch" src="https://github.com/user-attachments/assets/6889c31e-4966-4de7-807e-ddfa422a5c66">    
-    </p>
-  
-  - The TOEIC program: International English Language Testing System B2 (Feb 2024):
-    <p>
-    <img width="1134" alt="International English Language Testing System B2" src="https://github.com/user-attachments/assets/e260d89d-f7d6-4a0f-a50c-2a4466317bc3">
-    </p>
-  
-  - CESI: Software Developer (Sep 2020 - Jul 2022):
-    <p>
-    <img width="1134" alt="CESI Software Developer" src="https://github.com/user-attachments/assets/e61fc452-2041-4468-bf5d-76130cb38845">
-    </p>
-
-  - Cisco's CCNA: Introduction to Networks Certification (Feb 2022):
-    <p>
-    <img width="1134" alt="CCNA Introduction to Networks" src="https://github.com/user-attachments/assets/d69f111a-3f92-461b-bce0-74eb012f7a94">
-    </p>
-
 ## 📊 My GitHub Stats
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
