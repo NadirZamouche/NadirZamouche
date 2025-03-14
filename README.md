@@ -11,9 +11,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on **data science projects.**
+- 🔭 I’m currently working on **data science & data analysis projects.**
 
-- 🌱 I’m currently learning **Sci-kit Learn & Tensor Flow**
+- 🌱 I’m currently learning **Tableau**
 
 - 📫 Reach me at **nadir.zamouche29@outlook.com**
 
