@@ -21,11 +21,11 @@
 
 ## 🛠️ Tools & Programming languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=10" />
 </p>
 
 ### 🔗 Connect with me
