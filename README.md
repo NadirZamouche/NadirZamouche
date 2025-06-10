@@ -24,6 +24,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/LelouchFR/skill-icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
+</p>
+
 ### 🔗 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/nadirzamouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
