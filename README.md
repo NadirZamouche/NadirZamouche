@@ -5,12 +5,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*KY6XB83Jnm5XHm3e.gif" alt="nadirzamouche" />
 </p>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fblog%2F2023%2F11%2F15%2Fannouncing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots%2F&psig=AOvVaw18diJGQ_0x20jfWzKmVOB7&ust=1749658684059000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMC-ltSg540DFQAAAAAdAAAAABDFAQ" alt="nadirzamouche" />
-</p>
-
-
-
 ## 👨🏻‍💻 About Me
 
 - 👨‍💻 I’m currently working on **data science & data analysis projects.**
