@@ -20,7 +20,7 @@
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1c-SWJ8uKwmVu1Je2OoUntidAi4x2ZH0G/view?usp=sharing) in English
 
 ## 🛠️ Tools & Programming languages
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=10" />
 </p>
 
