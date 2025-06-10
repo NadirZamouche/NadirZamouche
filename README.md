@@ -21,7 +21,7 @@
 
 ## 🛠️ Tools & Programming languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,c,cpp,cs,dotnet,sklearn,mongodb,express,nodejs,react&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
 </p>
 
 ### 🔗 Connect with me
