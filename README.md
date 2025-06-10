@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LelouchFR/skill-icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=7" />
 </p>
 
 ### 🔗 Connect with me
