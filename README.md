@@ -5,6 +5,10 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*KY6XB83Jnm5XHm3e.gif" alt="nadirzamouche" />
 </p>
 
+<p align="center">
+  <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/11/Copilot_Studio_Icon_Animation_v01-5-1-1.gif" alt="nadirzamouche" />
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
 </p>
