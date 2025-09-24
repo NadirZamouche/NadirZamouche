@@ -11,9 +11,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 👨‍💻 I’m currently working on **data science & data analysis projects.**
+- 💡 I’m currently learning **Power BI and Databricks**
 
-- 💡 I’m currently learning **Tableau**
+- 👨‍💻 I’m working on **data analytics enginnering projects.**
 
 - 📫 Reach me at **nadir.zamouche29@outlook.com**
 
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tools & Programming languages
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,fabric&perline=10" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,databricks&perline=10" />
 </p>
 
 ### 🔗 Connect with me
