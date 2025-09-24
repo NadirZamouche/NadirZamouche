@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
-<h3 align="center">Junior Data Scientist | Data Analyst | Driving ML & BI-Powered Insights</h3>
+<h3 align="center">Junior Data Scientist | Data Analyst | Data Engineering Enthusiast | Driving ML & BI-Powered Insights</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="nadirzamouche" />
