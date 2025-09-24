@@ -13,7 +13,7 @@
 
 - 💡 I’m currently learning **Power BI and Databricks**
 
-- 👨‍💻 I’m working on **data analytics enginnering projects.**
+- 👨‍💻 I’m working on **data enginnering and analytics projects.**
 
 - 📫 Reach me at **nadir.zamouche29@outlook.com**
 
