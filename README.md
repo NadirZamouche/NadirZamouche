@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
-<h3 align="center">Data Analyst | Data Scientist</h3>
+<h3 align="center">Junior Data Scientist | Data Analyst | Driving ML & BI-Powered Insights</h3>
 
 <p align="center">
   <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/11/Copilot_Studio_Icon_Animation_v01-5-1-1.gif" alt="nadirzamouche" />
