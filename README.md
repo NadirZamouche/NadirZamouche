@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
-<h3 align="center">Data Science Student | Data Analyst | Data Engineering Enthusiast | Driving ML & BI-Powered Insights</h3>
+<h3 align="center">Data Science Student | Data Analyst | Driving ML & BI-Powered Insights</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="nadirzamouche" />
@@ -11,9 +11,11 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💡 I’m currently learning **Power BI and Databricks**
+- 💡 Currently learning **Power BI**
 
-- 👨‍💻 I’m working on **data enginnering and analytics projects.**
+- 👨‍💻 Working on **data science and machine learning projects**.
+  
+- 🚀 Exploring the different paths in the data field, with a growing enthusiasm for **data engineering**.
 
 - 📫 Reach me at **nadir.zamouche29@outlook.com**
 
