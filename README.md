@@ -23,7 +23,7 @@
 
 ## 🛠️ Tools & Programming languages
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure,databricks&perline=10" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure&perline=10" />
 </p>
 
 ### 🔗 Connect with me
