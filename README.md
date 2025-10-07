@@ -33,7 +33,4 @@
 </p>
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirzamouche&show_icons=true&theme=algolia" width="400"/></p>
-</p>
+[![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche)](https://github.com/NadirZamouche/github-readme-stats)
