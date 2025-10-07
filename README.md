@@ -33,4 +33,4 @@
 </p>
 
 ## 📊 My GitHub Stats
-[![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche)](https://github.com/NadirZamouche/github-readme-stats)
+[![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche)](https://github.com/anuraghazra/github-readme-stats)
