@@ -5,10 +5,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="nadirzamouche" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
-</p>
-
 ## 👨🏻‍💻 About Me
 
 - 💡 Currently learning **Power BI**
