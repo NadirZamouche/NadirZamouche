@@ -60,11 +60,14 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 ### 🌍 Languages
 <img width="20" height="15" alt="Screenshot 2025-10-08 184538" src="https://github.com/user-attachments/assets/8d0dadbf-eb98-42ef-9044-97238406ed35" />
-![Flag_of_Algeria svg](https://github.com/user-attachments/assets/d1129f51-a23c-47ba-8548-ae3a33c50cb6)
-<img width="20" height="15" alt="Flag_of_France svg" src="https://github.com/user-attachments/assets/af66350d-f955-4c75-8186-35a6fcb8b015" />
-![Flag_of_the_United_States svg](https://github.com/user-attachments/assets/62e41203-d037-4631-9b7f-9045d03eb0dd)
-![Flag_of_Germany svg](https://github.com/user-attachments/assets/958bd349-237f-41b3-aa51-b9f45aa4b52e)
 
+![Flag_of_Algeria svg](https://github.com/user-attachments/assets/f07ee15c-df1b-4472-a5b7-518a697d911d)
+
+<img width="20" height="15" alt="Flag_of_France svg" src="https://github.com/user-attachments/assets/af66350d-f955-4c75-8186-35a6fcb8b015" />
+
+![Flag_of_the_United_States svg](https://github.com/user-attachments/assets/52f6ea08-1fc7-4842-bcb0-f3c0e18658c7)
+
+![Flag_of_Germany svg](https://github.com/user-attachments/assets/c05487d5-1adc-44b9-acd4-aac1d12219f2)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
