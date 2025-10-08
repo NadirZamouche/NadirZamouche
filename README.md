@@ -68,11 +68,11 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ### 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
   </p>
 
-![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=monokai-metallian)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=monokai-gruvbox)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nadir's Top Languages" src="https://NadirZamouche-github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
 
 
