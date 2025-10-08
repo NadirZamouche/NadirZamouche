@@ -58,14 +58,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![XAML](https://img.shields.io/badge/xaml-512BD4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🌍 Languages
-### 🌍 Languages
-<img src="https://github.com/user-attachments/assets/8d0dadbf-eb98-42ef-9044-97238406ed35" alt="Amazigh" width="45" height="30">
-<img src="https://github.com/user-attachments/assets/f07ee15c-df1b-4472-a5b7-518a697d911d" alt="Arabic" width="45" height="30">
-<img src="https://github.com/user-attachments/assets/af66350d-f955-4c75-8186-35a6fcb8b015" alt="France" width="45" height="30">
-<img src="https://github.com/user-attachments/assets/52f6ea08-1fc7-4842-bcb0-f3c0e18658c7" alt="UK" width="45" height="30">
-<img src="https://github.com/user-attachments/assets/c05487d5-1adc-44b9-acd4-aac1d12219f2" alt="Germany" width="45" height="30">
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
