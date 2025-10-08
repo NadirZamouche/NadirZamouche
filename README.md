@@ -9,6 +9,8 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
          <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="">
          <img alt="views"title="Profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Views&color=0e75b6&style=for-the-badge"/></a>
+      <a href="">
+         <img alt="views" title="Profile views" src="https://custom-icon-badges.demolab.com/badge/Views-0e75b6?style=for-the-badge&labelColor=0b5fa5&logo=eye&logoColor=white"/></a>
       <a href="https://github.com/NadirZamouche?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
