@@ -73,12 +73,10 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 <p align="left">
   <a href="https://github.com/NadirZamouche">
-    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="192px"/></a>
+    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&bg_color=1F222E" height="192px"/></a>
   <a href="https://github.com/NadirZamouche">
-    <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox" height="192px"/></a>
+    <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox&bg_color=1F222E" height="192px"/></a>
 </p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NadirZamouche's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NadirZamouche&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NadirZamouche's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NadirZamouche&bg_color=1F222E&color=FABD2F&line=FE8019&point=FBF1C7&hide_border=true" /></a>
 
