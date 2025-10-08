@@ -1,3 +1,6 @@
+![Madoo](https://github.com/user-attachments/assets/11709305-0653-425d-9cd9-e916de7ae2d1)
+
+
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
 <h3 align="center">Data Science Student | Data Analyst | Driving ML & BI-Powered Insights</h3>
 
