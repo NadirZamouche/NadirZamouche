@@ -67,9 +67,19 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 ### 📊 Stats
 
-![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=default)
 ![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=react)
-
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=dark)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=radical)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=merko)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=tokyonight)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=onedark)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=cobalt)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=synthwave)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=highcontrast)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=dracula)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=prussian)
 
 
 <h1 align="center">
