@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
 
-<h3 align="center">Designing Scalable Machine Learning Models & Data Pipelines for Real-World Scenarios</h3>
+<h3 align="center">Designing Accurate Machine Learning Models</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
