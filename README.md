@@ -58,18 +58,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![XAML](https://img.shields.io/badge/xaml-512BD4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure&perline=10" />
-</p>
-
-### 🔗 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/nadirzamouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                                    alt="www.linkedin.com/in/nadirzamouche/" height="30" width="40" /></a>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
