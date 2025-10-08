@@ -68,7 +68,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ### 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/</a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true&bg_color=1F222E&hide_border=true"/</a>
   </p>
 
 <p align="left">
