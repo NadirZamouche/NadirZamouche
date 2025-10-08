@@ -9,17 +9,11 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   <a href="https://github.com/NadirZamouche?tab=followers">
      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=%23E05D44&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   
-
-
-  <!-- 🟠 RESUME -->
-  <a href="https://nadirzamouche.github.io/resume">
-    <img alt="resume" title="View my Resume"
-      src="https://custom-icon-badges.demolab.com/badge/Resume-FF9800?style=for-the-badge&labelColor=EF6C00&logo=book-open&logoColor=white"/></a>
-
-  <!-- 🟡 STARS -->
+ <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
     <img alt="stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=FBC02D&style=for-the-badge&labelColor=F9A825&logo=star&logoColor=white"/></a>
+      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
 
   <!-- 🟢 VISITORS -->
   <a href="">
