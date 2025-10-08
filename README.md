@@ -11,12 +11,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
-</h1>
-
-<h3 align="center">A Passionate Data Scientist & Machine Learning Engineer</h3>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
 </p>
@@ -43,3 +37,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   <a href="https://linkedin.com/in/nadirzamouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                                                                     alt="www.linkedin.com/in/nadirzamouche/" height="30" width="40" /></a>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
+</h1>
