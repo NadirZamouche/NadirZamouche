@@ -68,16 +68,15 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ### 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/></a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/</a>
   </p>
 
-![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox)
-
-<a href="https://github.com/NadirZamouche">
-    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
-<a href="https://github.com/NadirZamouche">
-    <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="192px"/>
-</a>
+<p align="left">
+  <a href="https://github.com/NadirZamouche">
+    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="192px"/></a>
+  <a href="https://github.com/NadirZamouche">
+    <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox" height="192px"/></a>
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
