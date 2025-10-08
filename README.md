@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
 <h3 align="center">Data Science Student | Data Analyst | Driving ML & BI-Powered Insights</h3>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="nadirzamouche" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
 </p>
 
 ## 👨🏻‍💻 About Me
