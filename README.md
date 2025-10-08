@@ -72,9 +72,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   </p>
 
 ![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=monokai-gruvbox)
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nadir's Top Languages" src="https://NadirZamouche-github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
