@@ -5,10 +5,21 @@
 I'm an IT student with a solid foundation in SQL and Python, and a strong interest in data-driven problem solving. My skills cover the full data lifecycle, from data collection and engineering to analysis and machine learning. I'm actively seeking opportunities to work on real-world projects and collaborate with professionals in the field. My goal is to contribute effectively and continue learning from experienced individuals in the data domain.
 
 <p align="left">
+      <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
+         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="visitos" title="GitHub Visitors" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
       <a href="https://github.com/NadirZamouche?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/NadirZamouche">
+    <img alt="views" title="GitHub Profile Views" src="https://custom-icon-badges.demolab.com/ghpvc/NadirZamouche?color=blue&label=Profile%20Views&style=for-the-badge&labelColor=0e75b6&logo=eye&logoColor=white"/></a>
+  <a href="https://github.com/NadirZamouche?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <p align="center"> 
