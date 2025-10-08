@@ -60,7 +60,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 ### 💻 Featured Repositories
   <p align="left">
-    <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction"><img width="278" src="https://NadirZamouche-github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=New-York-City-Taxi-Fare-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction"><img width="278" src="https://NadirZamouche-github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=New-York-City-Taxi-Fare-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="New-York-City-Taxi-Fare-Prediction"></a>
   </p>
 
 
