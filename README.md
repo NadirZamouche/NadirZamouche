@@ -1,4 +1,4 @@
-![Maddor](https://github.com/user-attachments/assets/c19516eb-f295-4e7c-a0c8-a094dec3d1d9)
+![MyBanner](https://github.com/user-attachments/assets/48184cce-6774-4aa0-9e4b-843d1eb817aa)
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
 <h3 align="center">Data Science Student | Data Analyst | Driving ML & BI-Powered Insights</h3>
 
