@@ -1,4 +1,4 @@
-![MyBanner](https://github.com/user-attachments/assets/48184cce-6774-4aa0-9e4b-843d1eb817aa)
+![MyBanner](https://github.com/user-attachments/assets/e512f5e5-705d-49c9-ba7d-052804168d2b)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=3DDC84&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
