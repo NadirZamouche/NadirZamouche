@@ -59,6 +59,11 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🌍 Languages
+<img width="20" height="15" alt="Screenshot 2025-10-08 184538" src="https://github.com/user-attachments/assets/8d0dadbf-eb98-42ef-9044-97238406ed35" />
+![Flag_of_Algeria svg](https://github.com/user-attachments/assets/d1129f51-a23c-47ba-8548-ae3a33c50cb6)
+<img width="20" height="15" alt="Flag_of_France svg" src="https://github.com/user-attachments/assets/af66350d-f955-4c75-8186-35a6fcb8b015" />
+![Flag_of_the_United_States svg](https://github.com/user-attachments/assets/62e41203-d037-4631-9b7f-9045d03eb0dd)
+![Flag_of_Germany svg](https://github.com/user-attachments/assets/958bd349-237f-41b3-aa51-b9f45aa4b52e)
 
 
 <h1 align="center">
