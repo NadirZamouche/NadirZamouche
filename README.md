@@ -8,7 +8,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
       <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
          <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
-      <a href="/">
+      <a href="">
          <img alt="views"title="Profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Views&color=0e75b6&style=for-the-badge"/>
       </a>
       <a href="https://github.com/NadirZamouche?tab=followers">
