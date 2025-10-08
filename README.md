@@ -11,21 +11,19 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
   <!-- 🟠 VISITORS -->
   <a href="">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=EF6C00&style=for-the-badge"/></a>
+     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=EF6C00&style=for-the-badge"/></a>
   
  <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
-    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+     <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
   <!-- 🟢 RESUME -->
-  <a href="https://drive.google.com/file/d/1c-SWJ8uKwmVu1Je2OoUntidAi4x2ZH0G/view?usp=drive_link" >
-    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=Resume&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1c-SWJ8uKwmVu1Je2OoUntidAi4x2ZH0G/view?usp=drive_link">
-    <img alt="resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-43A047?style=for-the-badge&labelColor=2E7D32&logo=readme&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1c-SWJ8uKwmVu1Je2OoUntidAi4x2ZH0G/view?usp=drive_link">
+     <img alt="resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-43A047?style=for-the-badge&labelColor=2E7D32&logoColor=white"/></a>
 
   <!-- 🔵 LINKEDIN -->
   <a href="https://www.linkedin.com/in/nadirzamouche/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
