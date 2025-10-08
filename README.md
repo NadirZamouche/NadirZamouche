@@ -65,6 +65,12 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
     <a href="https://github.com/NadirZamouche/Human-Resources-Attrition"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=Human-Resources-Attrition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Human-Resources-Attrition"></a>
   </p>
 
+### 📊 Stats
+
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox)
+![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&theme=react)
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
