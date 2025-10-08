@@ -17,13 +17,12 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
     <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
-  <!-- 🟢 VISITORS -->
+  <!-- 🟢 RESUME -->
 
 
   <!-- 🔵 LINKEDIN -->
-  <a href="https://linkedin.com/in/nadirzamouche">
-    <img alt="linkedin" title="Connect on LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E88E5?style=for-the-badge&labelColor=1565C0&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nadirzamouche/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
