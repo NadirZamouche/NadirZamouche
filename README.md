@@ -1,5 +1,11 @@
 # ♞ Nadir Zamouche
 
+**`Data Craftsman (Analyst/Scientist/Engineer)`**
+
+I'm an IT student with a solid foundation in SQL and Python, and a strong interest in data-driven problem solving. My skills cover the full data lifecycle, from data collection and engineering to analysis and machine learning. I'm actively seeking opportunities to work on real-world projects and collaborate with professionals in the field. My goal is to contribute effectively and continue learning from experienced individuals in the data domain.
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e512f5e5-705d-49c9-ba7d-052804168d2b" alt="MyBanner" />
 </p>
