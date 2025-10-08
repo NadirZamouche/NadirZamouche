@@ -25,19 +25,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
      <img alt="resume" title="View my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
-## 👨🏻‍💻 About Me
-
-- 💡 Currently learning **Power BI**
-
-- 👨‍💻 Working on **data science and machine learning projects**.
-  
-- 🚀 Exploring the different paths in the data field, with a growing enthusiasm for **data engineering**.
-
-- 📫 Reach me at **nadir.zamouche29@outlook.com**
-
-- 📄 Here's my [Resume](https://drive.google.com/file/d/1c-SWJ8uKwmVu1Je2OoUntidAi4x2ZH0G/view?usp=drive_link)
-
 ## 🛠️ Tools & Programming languages
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure&perline=10" />
