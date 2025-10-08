@@ -25,6 +25,8 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
      <img alt="resume" title="View my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,sqlite,py,sklearn,pbi,tableau,azure&perline=10" />
