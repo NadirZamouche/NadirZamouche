@@ -1,4 +1,4 @@
-# ♞ Nadir Zamouche
+# 👨‍🌾 Nadir Zamouche
 
 **`Data Craftsman (Analyst/Scientist/Engineer)`**
 
