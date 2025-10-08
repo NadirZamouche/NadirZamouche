@@ -1,7 +1,7 @@
 ![MyBanner](https://github.com/user-attachments/assets/48184cce-6774-4aa0-9e4b-843d1eb817aa)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=FFEB3B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=FFC107&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
 
 <h3 align="center">Data Science Student | Data Analyst | Driving ML & BI-Powered Insights</h3>
