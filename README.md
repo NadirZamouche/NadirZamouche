@@ -5,18 +5,37 @@
 I'm an IT student with a solid foundation in SQL and Python, and a strong interest in data-driven problem solving. My skills cover the full data lifecycle, from data collection and engineering to analysis and machine learning. I'm actively seeking opportunities to work on real-world projects and collaborate with professionals in the field. My goal is to contribute effectively and continue learning from experienced individuals in the data domain.
 
 <p align="left">
-      <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
-         <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="">
-         <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=visitors&color=03A9F4&style=for-the-badge"></a>
-       <a href="https://github.com/NadirZamouche?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <!-- 🔴 FOLLOWERS -->
+  <a href="https://github.com/NadirZamouche?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=E53935&labelColor=C62828&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+
+  <!-- 🟠 RESUME -->
+  <a href="https://nadirzamouche.github.io/resume">
+    <img alt="resume" title="View my Resume"
+      src="https://custom-icon-badges.demolab.com/badge/Resume-FF9800?style=for-the-badge&labelColor=EF6C00&logo=book-open&logoColor=white"/>
+  </a>
+
+  <!-- 🟡 STARS -->
+  <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=FBC02D&style=for-the-badge&labelColor=F9A825&logo=star&logoColor=white"/>
+  </a>
+
+  <!-- 🟢 VISITORS -->
+  <a href="">
+    <img alt="views" title="GitHub profile views"
+      src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=43A047&style=for-the-badge"/>
+  </a>
+
+  <!-- 🔵 LINKEDIN -->
+  <a href="https://linkedin.com/in/nadirzamouche">
+    <img alt="linkedin" title="Connect on LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E88E5?style=for-the-badge&labelColor=1565C0&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Profile%20views&color=0e75b6&style=flat-square" alt="nadirzamouche" />
-</p>
 
 ## 👨🏻‍💻 About Me
 
