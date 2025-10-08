@@ -80,8 +80,8 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NadirZamouche's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NadirZamouche&bg_color=1F222E&color=FABD2F&line=FE8019&point=FBF1C7&hide_border=true" /></a>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
-</h1>
-
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+:);+Tschüss+👋" />
+</h1>
