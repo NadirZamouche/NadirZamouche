@@ -1,7 +1,7 @@
 ![MyBanner](https://github.com/user-attachments/assets/48184cce-6774-4aa0-9e4b-843d1eb817aa)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Nadir Zamouche</h1>
