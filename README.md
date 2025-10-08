@@ -11,9 +11,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   
  <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
-    <img alt="stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
   <!-- 🟢 VISITORS -->
   <a href="">
