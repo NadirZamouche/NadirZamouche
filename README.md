@@ -11,7 +11,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
   <!-- 🟠 VISITORS -->
   <a href="">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=FF9800&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=EF6C00&style=for-the-badge"/></a>
   
  <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
