@@ -8,32 +8,27 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=E53935&labelColor=C62828&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
+      src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=E53935&labelColor=C62828&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
   <!-- 🟠 RESUME -->
   <a href="https://nadirzamouche.github.io/resume">
     <img alt="resume" title="View my Resume"
-      src="https://custom-icon-badges.demolab.com/badge/Resume-FF9800?style=for-the-badge&labelColor=EF6C00&logo=book-open&logoColor=white"/>
-  </a>
+      src="https://custom-icon-badges.demolab.com/badge/Resume-FF9800?style=for-the-badge&labelColor=EF6C00&logo=book-open&logoColor=white"/></a>
 
   <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
     <img alt="stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=FBC02D&style=for-the-badge&labelColor=F9A825&logo=star&logoColor=white"/>
-  </a>
+      src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=FBC02D&style=for-the-badge&labelColor=F9A825&logo=star&logoColor=white"/></a>
 
   <!-- 🟢 VISITORS -->
   <a href="">
     <img alt="views" title="GitHub profile views"
-      src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=43A047&style=for-the-badge"/>
-  </a>
+      src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Visitors&color=43A047&style=for-the-badge"/></a>
 
   <!-- 🔵 LINKEDIN -->
   <a href="https://linkedin.com/in/nadirzamouche">
     <img alt="linkedin" title="Connect on LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E88E5?style=for-the-badge&labelColor=1565C0&logo=linkedin&logoColor=white"/>
-  </a>
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1E88E5?style=for-the-badge&labelColor=1565C0&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
