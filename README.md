@@ -59,7 +59,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🌍 Languages
-🇩🇿 🇲🇦 Amazigh | 🇩🇿 🇸🇦 Arabic | 🇫🇷 French | 🇬🇧 English | 🇩🇪 German
+🇩🇿 Amazigh | 🇩🇿 Arabic | 🇫🇷 French | 🇬🇧 English | 🇩🇪 German
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
