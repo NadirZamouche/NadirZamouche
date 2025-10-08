@@ -10,7 +10,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
       <a href="">
          <img alt="views"title="Profile views" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Views&color=1155ba&labelColor=0a3f91&style=flat-square"/></a>
       <a href="https://github.com/NadirZamouche?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://komarev.com/ghpvc/?username=nadirzamouche&label=Views&color=0e75b6&style=for-the-badge&logo=eye&logoColor=white"/></a>
 </p>
 
 
