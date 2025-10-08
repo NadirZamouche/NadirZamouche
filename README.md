@@ -78,6 +78,8 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
     <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox" height="192px"/></a>
 </p>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NadirZamouche's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NadirZamouche&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
