@@ -4,11 +4,12 @@
 
 I'm an IT student with a solid foundation in SQL and Python, and a strong interest in data-driven problem solving. My skills cover the full data lifecycle, from data collection and engineering to analysis and machine learning. I'm actively seeking opportunities to work on real-world projects and collaborate with professionals in the field. My goal is to contribute effectively and continue learning from experienced individuals in the data domain.
 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e512f5e5-705d-49c9-ba7d-052804168d2b" alt="MyBanner" />
-</p>
+<p align="left">
+      <a href="https://github.com/NadirZamouche?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/NadirZamouche?tab=repositoriess&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
