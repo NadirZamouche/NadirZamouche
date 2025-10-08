@@ -83,5 +83,5 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=6000&lines= Thanks+for+stopping+by!+:);+Tschüss+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=6000&lines=+Thanks+for+stopping+by!+:);+Tschüss+👋" />
 </h1>
