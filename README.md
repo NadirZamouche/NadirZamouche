@@ -58,6 +58,12 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![XAML](https://img.shields.io/badge/xaml-512BD4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### 💻 Featured Repositories
+  <p align="left">
+    <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zam!" />
 </h1>
