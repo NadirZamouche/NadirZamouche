@@ -73,7 +73,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 
 <p align="left">
   <a href="https://github.com/NadirZamouche">
-    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&bg_color=1F222E&hide_border=true" height="192px"/></a>
+    <img alt="Nadir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NadirZamouche&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&bg_color=1F222E&hide_border=true&cache_seconds=1800" height="192px"/></a>
   <a href="https://github.com/NadirZamouche">
     <img alt="Nadir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirZamouche&langs_count=8&layout=compact&theme=gruvbox&bg_color=1F222E&hide_border=true" height="192px"/></a>
 </p>
