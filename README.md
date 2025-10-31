@@ -33,7 +33,6 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![Microsoft Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💻 Featured Repositories
   <p align="left">
