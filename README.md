@@ -17,7 +17,7 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
      <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
   <!-- 🟢 RESUME -->
-  <a href="https://drive.google.com/file/d/1MlKS6q089PMHtsQt_lvnY5rUA3qcc6oB/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1WUdAGjGGjQtpbT571_MYPDBaTHgMpD8l/view?usp=sharing">
      <img alt="resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-43A047?style=for-the-badge&labelColor=2E7D32&logoColor=white"/></a>
 
   <!-- 🔵 LINKEDIN -->
