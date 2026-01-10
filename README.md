@@ -35,11 +35,8 @@ I'm an IT student with a solid foundation in SQL and Python, and a strong intere
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💻 Featured Repositories
-  <p align="left">
-    <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=New-York-City-Taxi-Fare-Prediction&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="New-York-City-Taxi-Fare-Prediction"></a>
-    <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=Passenger-Satisfaction-Optimization-Initiative&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Passenger-Satisfaction-Optimization-Initiative"></a>
-    <a href="https://github.com/NadirZamouche/Human-Resources-Attrition"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=NadirZamouche&repo=Human-Resources-Attrition&theme=react&bg_color=1F222E&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Human-Resources-Attrition"></a>
-  </p>
+[![Repo](https://img.shields.io/badge/Repo-NYC_Taxi_Fare_Prediction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction) [![Repo](https://img.shields.io/badge/Repo-Passenger_Satisfaction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative) [![Repo](https://img.shields.io/badge/Repo-HR_Attrition-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Human-Resources-Attrition)
+
 
 ### 📊 Stats
   <p>
