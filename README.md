@@ -2,7 +2,7 @@
 
 **`Data Craftsman (Analyst/Scientist/Engineer)`**
 
-I'm an IT student with a solid foundation in SQL and Python, and a strong interest in data-driven problem solving. My skills cover the full data lifecycle, from data collection and engineering to analysis and machine learning. I'm actively seeking opportunities to work on real-world projects and collaborate with professionals in the field. My goal is to contribute effectively and continue learning from experienced individuals in the data domain.
+Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
 
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
