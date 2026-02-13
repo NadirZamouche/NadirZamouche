@@ -29,11 +29,12 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 
 ### 🧰 Tech Stack
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-1B4F72?style=for-the-badge&logo=tableau&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/tableau-1B4F72?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 
