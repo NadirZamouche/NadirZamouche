@@ -17,7 +17,7 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
      <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NadirZamouche?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
   <!-- 🟢 RESUME -->
-  <a href="https://drive.google.com/file/d/1ohoA-xsvAhS4eccQoHO5LnMtp5vfZrqu/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1iWc8GvFXmih1LEc5mzC4MNadrknRNjV3/view?usp=sharing">
      <img alt="resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-43A047?style=for-the-badge&labelColor=2E7D32&logoColor=white"/></a>
 
   <!-- 🔵 LINKEDIN -->
