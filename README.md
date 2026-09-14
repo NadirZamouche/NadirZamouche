@@ -4,6 +4,8 @@
 
 Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Thanks+for+stopping+by!+:);+Tschüss+👋" />
+
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
@@ -61,10 +63,8 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Thanks+for+stopping+by!+:);+Tschüss+👋" />
-  
+<div align="center">
   <img width="550" height="720" alt="PW" src="https://github.com/user-attachments/assets/8220cf71-49ec-4d01-a991-82212ae62a15" />
-  <br>
-  <sub><strong>Thanks for stopping by!</strong></sub>
-</h1>
+
+  <p><strong>Thanks for stopping by!</strong></p>
+</div>
