@@ -56,6 +56,7 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
   />
 </p>
 
+## 🐍 Contribution Snake
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">
