@@ -50,6 +50,27 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
   <p><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox"></p>
   <p><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=gruvbox&layout=compact&langs_count=8"></p>
 
+  <p align="center">
+  <img
+    src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox"
+    alt="Nadir's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=gruvbox&layout=compact&langs_count=8"
+    alt="Nadir's Top Languages"
+  />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"
+      alt="Nadir's GitHub Streak"
+    />
+  </a>
+</p>
+
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">
