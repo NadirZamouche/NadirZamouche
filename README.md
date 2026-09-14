@@ -1,6 +1,6 @@
 # 👨‍🌾 Nadir Zamouche
 
-**`Data Craftsman (Analyst/Scientist/Engineer)`**
+**`Data Craftsman (AI & Engineering)`**
 
 Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
 
