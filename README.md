@@ -9,7 +9,7 @@
   
 </div>
 
-<p align="left">
+<p align="center">
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=%23E05D44&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
