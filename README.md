@@ -63,4 +63,8 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Thanks+for+stopping+by!+:);+Tschüss+👋" />
+  
+  <img width="550" height="720" alt="PW" src="https://github.com/user-attachments/assets/8220cf71-49ec-4d01-a991-82212ae62a15" />
+  <br>
+  <sub><strong>Thanks for stopping by!</strong></sub>
 </h1>
