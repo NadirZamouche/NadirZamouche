@@ -2,9 +2,11 @@
 
 **`Data Craftsman (AI & Engineering)`**
 
-Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00BCD4&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Thanks+for+stopping+by!+:);+Tschüss+👋" />
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=3B82F6&center=true&vCenter=true&width=800&height=180&duration=4000&pause=1000&lines=Hey%2C+it%E2%80%99s+me%2C+Nadir;I+build+reliable+and+cost-efficient;data+pipelines+with+accurate+documentation;helping+businesses+gain+actionable+insights;and+turn+data+to+their+advantage"
+  />
+</div>
 
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
@@ -66,5 +68,5 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 <div align="center">
   <img width="550" height="720" alt="PW" src="https://github.com/user-attachments/assets/8220cf71-49ec-4d01-a991-82212ae62a15" />
 
-  <strong>Thanks for stopping by!</strong>
+  <strong>Thanks for stopping by! 👋</strong>
 </div>
