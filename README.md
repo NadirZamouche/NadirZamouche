@@ -61,16 +61,6 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
   />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-    <img
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"
-      alt="Nadir's GitHub Streak"
-    />
-  </a>
-</p>
-
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">
