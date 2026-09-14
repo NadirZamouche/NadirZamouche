@@ -4,6 +4,7 @@
 
 Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
 
+<h1>
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
@@ -24,7 +25,7 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
   <a href="https://www.linkedin.com/in/nadirzamouche/" >
      <img alt="resume" title="View my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
+</h1>
 ---
 
 ### 🧰 Tech Stack
