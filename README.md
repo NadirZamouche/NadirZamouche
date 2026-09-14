@@ -1,5 +1,4 @@
-
-  <img
+<img
     align="center"
     src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&width=800&height=100&duration=4000&pause=250&lines=Hey%2C+it%E2%80%99s+me%2C+Nadir;I+build+reliable+and+cost-efficient;data+pipelines+with+accurate+documentation;helping+businesses+gain+actionable+insights;and+turn+data+to+their+advantage"
   />
@@ -50,16 +49,16 @@
 ## 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/</a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=merko&short_numbers=true"/</a>
   </p>
   <p>
   <img
-    src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox"
+    src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=merko"
     alt="Nadir's GitHub Stats"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=gruvbox&layout=compact&langs_count=8"
+    src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=merko&layout=compact&langs_count=8"
     alt="Nadir's Top Languages"
   />
 </p>
