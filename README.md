@@ -25,6 +25,8 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
      <img alt="resume" title="View my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
 ## 🧰 Tech Stack</h1>
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
