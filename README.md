@@ -4,7 +4,6 @@
 
 Junior Data Scientist with hands-on experience in fraud detection, machine learning, and data analytics. Proven ability to build impactful, data-driven solutions that deliver measurable business value.
 
-<h1>
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
@@ -25,10 +24,8 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
   <a href="https://www.linkedin.com/in/nadirzamouche/" >
      <img alt="resume" title="View my LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-</h1>
----
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack</h1>
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,12 +35,11 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-
-### 💻 Featured Repositories
+## 💻 Featured Repositories
 [![Repo](https://img.shields.io/badge/Repo-NYC_Taxi_Fare_Prediction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction) [![Repo](https://img.shields.io/badge/Repo-Passenger_Satisfaction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative) [![Repo](https://img.shields.io/badge/Repo-HR_Attrition-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Human-Resources-Attrition)
 
 
-### 📊 Stats
+## 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/</a>
