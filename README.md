@@ -1,10 +1,15 @@
-# 👨‍🌾 Nadir Zamouche
 
-**`Data Craftsman (AI & Engineering)`**
   <img
     align="center"
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=FFBF00&center=true&vCenter=true&width=800&height=180&duration=4000&pause=1000&lines=Hey%2C+it%E2%80%99s+me%2C+Nadir;I+build+reliable+and+cost-efficient;data+pipelines+with+accurate+documentation;helping+businesses+gain+actionable+insights;and+turn+data+to+their+advantage"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&width=800&height=100&duration=4000&pause=250&lines=Hey%2C+it%E2%80%99s+me%2C+Nadir;I+build+reliable+and+cost-efficient;data+pipelines+with+accurate+documentation;helping+businesses+gain+actionable+insights;and+turn+data+to+their+advantage"
   />
+
+<div align="center">
+  
+  **`AI & Data Engineer`**
+  
+</div>
+
 <p align="left">
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
