@@ -66,5 +66,5 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
 <div align="center">
   <img width="550" height="720" alt="PW" src="https://github.com/user-attachments/assets/8220cf71-49ec-4d01-a991-82212ae62a15" />
 
-  <p><strong>Thanks for stopping by!</strong></p>
+  <strong>Thanks for stopping by!</strong>
 </div>
