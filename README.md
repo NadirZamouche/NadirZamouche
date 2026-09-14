@@ -47,8 +47,8 @@ Junior Data Scientist with hands-on experience in fraud detection, machine learn
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=gruvbox&short_numbers=true"/</a>
   </p>
-  <p align="center"><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox"></p>
-  <p align="center"><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=gruvbox&layout=compact&langs_count=8"></p>
+  <p><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=NadirZamouche&show_icons=true&theme=gruvbox"></p>
+  <p><img src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=NadirZamouche&theme=gruvbox&layout=compact&langs_count=8"></p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NadirZamouche's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NadirZamouche&bg_color=1F222E&color=FABD2F&line=FE8019&point=FBF1C7&hide_border=true" /></a>
 
