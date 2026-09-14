@@ -49,7 +49,7 @@
 ## 📊 Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=github_dark&short_numbers=true"/</a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=merko&short_numbers=true"/</a>
   </p>
   <p>
   <img
