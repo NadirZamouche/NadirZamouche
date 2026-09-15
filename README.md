@@ -32,7 +32,7 @@
 
 ---
 
-## 🧰 Tech Stack</h1>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" height="28" alt="🛠️">  Tech Stack</h1>
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -42,11 +42,11 @@
 ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-## 💻 Featured Repositories
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" height="28" alt="💻">  Featured Repositories
 [![Repo](https://img.shields.io/badge/Repo-NYC_Taxi_Fare_Prediction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction) [![Repo](https://img.shields.io/badge/Repo-Passenger_Satisfaction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative) [![Repo](https://img.shields.io/badge/Repo-HR_Attrition-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Human-Resources-Attrition)
 
 
-## 📊 Stats
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28" height="28" alt="📊">  Stats
   <p>
     <a href="https://github.com/NadirZamouche/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nadir's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NadirZamouche&theme=github_dark&short_numbers=true"/</a>
@@ -64,7 +64,7 @@
   />
 </p>
 
-## 🐍 Contribution Snake
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="28" height="28" alt="🐍">  Contribution Snake
 ![snake gif](https://github.com/NadirZamouche/NadirZamouche/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
@@ -73,5 +73,5 @@
   <br>
 
   <strong>Thanks for stopping by!</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="25" height="25" alt="👋">
 </div>
