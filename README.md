@@ -1,5 +1,10 @@
 <img
     align="center"
+    src="https://luthierylabs.com/wp-content/uploads/whatever/raining-letters.gif"
+  />
+
+<img
+    align="center"
     src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&width=800&height=100&duration=4000&pause=250&lines=Hey%2C+it%E2%80%99s+me%2C+Nadir;I+build+reliable+and+cost-efficient;data+pipelines+with+accurate+documentation;helping+businesses+gain+actionable+insights;and+turn+data+to+their+advantage"
   />
 
