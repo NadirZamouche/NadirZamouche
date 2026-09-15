@@ -70,5 +70,8 @@
 <div align="center">
   <img width="550" height="720" alt="PW" src="https://github.com/user-attachments/assets/8220cf71-49ec-4d01-a991-82212ae62a15" />
 
-  <strong>Thanks for stopping by! 👋</strong>
+  <br>
+
+  <strong>Thanks for stopping by!</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </div>
