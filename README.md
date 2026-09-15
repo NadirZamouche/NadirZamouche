@@ -1,9 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=200&section=header" width="100%">
-
-<img
-    align="center"
-    src="https://luthierylabs.com/wp-content/uploads/whatever/raining-letters.gif"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header" width="100%">
 
 <img
     align="center"
@@ -115,3 +110,5 @@
   <strong>Thanks for stopping by!</strong>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="25" height="25" alt="👋">
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=110&section=footer" width="100%">
