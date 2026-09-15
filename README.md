@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=110&section=header" width="100%">
+
 <img
     align="center"
     src="https://luthierylabs.com/wp-content/uploads/whatever/raining-letters.gif"
