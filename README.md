@@ -57,12 +57,23 @@
     </td>
     <td align="center" width="300" height="200">
       <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFrYmM0NmhneW51eTdycGRjNjV5a3NiY2hoN3QyenZxMjd6aW9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PJlKSFI3PxOzq9wSl/giphy.gif"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3dnFjdXM2YmRsaGZnazRibzEzbTNrbGJiY3RqZ3B3dDlrdng4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hvFP4LH0rN6lFQNSD/giphy.gif"/>
       </a>
       <br>
-      <strong>New York City Taxi Fare Prediction</strong>
+      <strong>Passenger Satisfaction Optimization
+</strong>
       <br>
-        Machine Learning - Regression
+        Machine Learning - Classification
+    </td>
+    <td align="center" width="300" height="200">
+      <a href="https://github.com/NadirZamouche/Human-Resources-Attrition">
+          <img src="https://www.memecreator.org/m/i-m-out.gif"/>
+      </a>
+      <br>
+      <strong>HR Attrition
+</strong>
+      <br>
+        Machine Learning - Classification
     </td>
   </tr>
 </table>
