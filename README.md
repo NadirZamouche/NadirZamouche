@@ -43,15 +43,12 @@
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" height="28" alt="💻">  Featured Repositories
-[![Repo](https://img.shields.io/badge/Repo-NYC_Taxi_Fare_Prediction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction) [![Repo](https://img.shields.io/badge/Repo-Passenger_Satisfaction-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative) [![Repo](https://img.shields.io/badge/Repo-HR_Attrition-black?style=for-the-badge&logo=github)](https://github.com/NadirZamouche/Human-Resources-Attrition)
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="300" height="200">
         <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFxenpiZ2pzcHUzdnF2c2NyYTM1dGY3YWNxcTUwejkzY2FncGd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZXsHDuIhvu2yxMgFI/giphy.gif" alt="Sara AI"/>
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFxenpiZ2pzcHUzdnF2c2NyYTM1dGY3YWNxcTUwejkzY2FncGd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZXsHDuIhvu2yxMgFI/giphy.gif"/>
         </a>
         <br>
         <strong>New York City Taxi Fare Prediction</strong>
@@ -59,20 +56,9 @@
         Machine Learning - Regression
     </td>
     <td align="center" width="300" height="200">
-      <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFxenpiZ2pzcHUzdnF2c2NyYTM1dGY3YWNxcTUwejkzY2FncGd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZXsHDuIhvu2yxMgFI/giphy.gif" alt="Sara AI"/>
+        <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative">
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWYzbXF2MHUweGtzYzJoNnV0OWxzYmhseXd5aW92ZjdxeDNnb2ZnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1rMBSzDo3O4JsrFlnN/giphy.gif"/>
         </a>
-      <br>
-      <strong>Passenger Satisfaction Optimization Initiative</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-    <td align="center" width="300" height="200">
-      <img src=".gif"  alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
     </td>
   </tr>
 </table>
