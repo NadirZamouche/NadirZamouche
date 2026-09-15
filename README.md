@@ -47,18 +47,22 @@
 <table>
   <tr>
     <td align="center" width="300" height="200">
-        <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFxenpiZ2pzcHUzdnF2c2NyYTM1dGY3YWNxcTUwejkzY2FncGd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZXsHDuIhvu2yxMgFI/giphy.gif"/>
-        </a>
-        <br>
-        <strong>New York City Taxi Fare Prediction</strong>
-        <br>
+      <a href="https://github.com/NadirZamouche/New-York-City-Taxi-Fare-Prediction">
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFxenpiZ2pzcHUzdnF2c2NyYTM1dGY3YWNxcTUwejkzY2FncGd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZXsHDuIhvu2yxMgFI/giphy.gif"/>
+      </a>
+      <br>
+      <strong>New York City Taxi Fare Prediction</strong>
+      <br>
         Machine Learning - Regression
     </td>
     <td align="center" width="300" height="200">
-        <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative">
-            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWYzbXF2MHUweGtzYzJoNnV0OWxzYmhseXd5aW92ZjdxeDNnb2ZnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1rMBSzDo3O4JsrFlnN/giphy.gif"/>
-        </a>
+      <a href="https://github.com/NadirZamouche/Passenger-Satisfaction-Optimization-Initiative">
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFrYmM0NmhneW51eTdycGRjNjV5a3NiY2hoN3QyenZxMjd6aW9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PJlKSFI3PxOzq9wSl/giphy.gif"/>
+      </a>
+      <br>
+      <strong>New York City Taxi Fare Prediction</strong>
+      <br>
+        Machine Learning - Regression
     </td>
   </tr>
 </table>
