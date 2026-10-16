@@ -15,13 +15,11 @@
   <!-- 🔴 FOLLOWERS -->
   <a href="https://github.com/NadirZamouche?tab=followers">
      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NadirZamouche?color=%23E05D44&label=Followers&logo=person-add&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-
-  <!-- 🟠 VISITORS -->
-  <img
+    <!-- 🟠 VISITORS -->
+    <img
     alt="GitHub Profile Views"
     title="GitHub Profile Views"
-    src="https://komarev.com/ghpvc/?username=NadirZamouche&label=Visitors&color=EF6C00&style=for-the-badge"
-  />
+    src="https://komarev.com/ghpvc/?username=NadirZamouche&label=Visitors&color=EF6C00&style=for-the-badge"/>
   
  <!-- 🟡 STARS -->
   <a href="https://github.com/NadirZamouche?tab=repositories&sort=stargazers">
